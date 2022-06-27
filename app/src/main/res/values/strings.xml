@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Task Week 5</string>
+    <string name="context_of_image">Context of Image</string>
+    <string name="person_name">Taha Saad</string>
+    <string name="_3h">3h</string>
+    <string name="engineer">Developer</string>
+    <string name="russian">Iraqi</string>
+    <string name="uk">Iraq</string>
+    <string name="_5_days_ago">5 Days ago</string>
+    <string name="_4_5">4.5</string>
+    <string name="_150_reviews">(150 Reviews)</string>
+</resources>
